@@ -28,7 +28,7 @@
   <meta name="viewport" content="width=device-width">
   
   <title>Titanic_data_machine_learning/titanic_machine_learning.py at master · smritishyamal/Titanic_data_machine_learning · GitHub</title>
-    <meta name="description" content="GitHub is where people build software. More than 27 million people use GitHub to discover, fork, and contribute to over 80 million projects.">
+    <meta name="description" content="GitHub is where people build softwares. More than 27 million people use GitHub to discover, fork, and contribute to over 80 million projects.">
   <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
